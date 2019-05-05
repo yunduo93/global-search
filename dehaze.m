@@ -18,7 +18,6 @@ Re_max=O+I;
 
 infty=solve_A(Re_min,Re_max)*infc.mn(2);
 
-
 lb = 0.2+infc.mn(4);
 ub = 0.5;
 x0 = [0.2 0.3 0.6 0.8 1];
